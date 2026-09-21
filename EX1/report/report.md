@@ -11,11 +11,11 @@
 # 二、实验内容
 ## 1. 测试币领取
 运行`keygen.py`得到私钥和地址：
-<img src="C:\Users\Administrator\Desktop\区块链\EX1\result\运行keygen.png" style="zoom:50%;" />
+<img src="../result/运行keygen.png" alt="运行keygen结果" style="zoom:50%;" />
 
 在`https://coinfaucet.eu/en`中领取`bitcoins`：
 
-<img src="C:\Users\Administrator\Desktop\区块链\EX1\result\领取测试币.png" style="zoom:50%;" />
+<img src="../result/领取测试币.png" alt="领取测试币结果" style="zoom:50%;" />
 
 =='bitcoins`相关信息如下：==
 - **tx:**3c8fcad8d744cd60738146062b4161d697758daefd497e74ea7599816568f2aa
@@ -23,7 +23,7 @@
 - **private key:**cSnjbL48d2VEPCNyLz7SUw5xf4GWQYKAWTFas5sVTzDBhfknad6M
 
 跟踪交易得到：
-<img src="C:\Users\Administrator\Desktop\区块链\EX1\result\账户信息.png" style="zoom:50%;" />
+<img src="../result/账户信息.png" alt="账户信息" style="zoom:50%;" />
 
 ## 2. 分块操作
 ### 补全'config.py'
@@ -47,7 +47,7 @@ my_private_key = CBitcoinSecret(
 - **n：**规定的分块的数量，这里将其拆分成10份
 
 运行程序，就会输出分块结果,放在`result\split_output.txt`
-跟踪交易得到<img src = "C:\Users\Administrator\Desktop\区块链\EX1\result\分币操作.png" style="zoom:50%"/>
+跟踪交易得到<img src="../result/分币操作.png" alt="分币操作结果" style="zoom:50%" />
 
 ## 3. 发币操作
 
@@ -180,7 +180,7 @@ flowchart TD
 
 运行后得到发币结果，放在result\ex1_output.txt
 跟踪交易得到：
-<img = "C:\Users\Administrator\Desktop\区块链\EX1\result\发币操作.png" style = "zoom:50%"/>
+<img src="../result/发币操作.png" alt="发币操作结果" style="zoom:50%" />
 
 成功发币
 
