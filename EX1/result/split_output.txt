@@ -1,0 +1,119 @@
+201 Created
+{
+  "tx": {
+    "block_height": -1,
+    "block_index": -1,
+    "hash": "4d2f936ea607ce54a9a66081226a0440b63ce4b861859f6749ad14ab0ad6402a",
+    "addresses": [
+      "n2CaSMy8HL5yrBSPPCB62WiuWCN3ngEuzD"
+    ],
+    "total": 10000,
+    "fees": 140309,
+    "size": 498,
+    "vsize": 498,
+    "preference": "low",
+    "relayed_by": "unknown",
+    "received": "2026-09-20T15:37:56.000000000Z",
+    "ver": 1,
+    "double_spend": false,
+    "vin_sz": 1,
+    "vout_sz": 10,
+    "confirmations": 0,
+    "inputs": [
+      {
+        "prev_hash": "3c8fcad8d744cd60738146062b4161d697758daefd497e74ea7599816568f2aa",
+        "output_index": 0,
+        "script": "483045022100a7021f71936dd816a03b70fb3f86f175e5b47f4c4ccd8ed312098c717285cde90220465f2889f490ed16e14631d58ddf648f1b954b45d76e727775b7096139dfe500012102a32dc6e1f37813ba94f8a5311f4fbf7462b698d87e89ec2048431053ea1944af",
+        "output_value": 150309,
+        "sequence": 4294967295,
+        "addresses": [
+          "n2CaSMy8HL5yrBSPPCB62WiuWCN3ngEuzD"
+        ],
+        "script_type": "pay-to-pubkey-hash",
+        "age": 0
+      }
+    ],
+    "outputs": [
+      {
+        "value": 1000,
+        "script": "76a914e2e0e8b76323b7f76f0ec8b53d7aeded971b74a288ac",
+        "addresses": [
+          "n2CaSMy8HL5yrBSPPCB62WiuWCN3ngEuzD"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 1000,
+        "script": "76a914e2e0e8b76323b7f76f0ec8b53d7aeded971b74a288ac",
+        "addresses": [
+          "n2CaSMy8HL5yrBSPPCB62WiuWCN3ngEuzD"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 1000,
+        "script": "76a914e2e0e8b76323b7f76f0ec8b53d7aeded971b74a288ac",
+        "addresses": [
+          "n2CaSMy8HL5yrBSPPCB62WiuWCN3ngEuzD"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 1000,
+        "script": "76a914e2e0e8b76323b7f76f0ec8b53d7aeded971b74a288ac",
+        "addresses": [
+          "n2CaSMy8HL5yrBSPPCB62WiuWCN3ngEuzD"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 1000,
+        "script": "76a914e2e0e8b76323b7f76f0ec8b53d7aeded971b74a288ac",
+        "addresses": [
+          "n2CaSMy8HL5yrBSPPCB62WiuWCN3ngEuzD"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 1000,
+        "script": "76a914e2e0e8b76323b7f76f0ec8b53d7aeded971b74a288ac",
+        "addresses": [
+          "n2CaSMy8HL5yrBSPPCB62WiuWCN3ngEuzD"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 1000,
+        "script": "76a914e2e0e8b76323b7f76f0ec8b53d7aeded971b74a288ac",
+        "addresses": [
+          "n2CaSMy8HL5yrBSPPCB62WiuWCN3ngEuzD"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 1000,
+        "script": "76a914e2e0e8b76323b7f76f0ec8b53d7aeded971b74a288ac",
+        "addresses": [
+          "n2CaSMy8HL5yrBSPPCB62WiuWCN3ngEuzD"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 1000,
+        "script": "76a914e2e0e8b76323b7f76f0ec8b53d7aeded971b74a288ac",
+        "addresses": [
+          "n2CaSMy8HL5yrBSPPCB62WiuWCN3ngEuzD"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 1000,
+        "script": "76a914e2e0e8b76323b7f76f0ec8b53d7aeded971b74a288ac",
+        "addresses": [
+          "n2CaSMy8HL5yrBSPPCB62WiuWCN3ngEuzD"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      }
+    ]
+  }
+}
